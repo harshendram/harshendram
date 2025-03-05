@@ -1,5 +1,5 @@
 # 💫 About Me:
-Here's your updated GitHub README with emojis at the start of each point and your latest updates:  <br><br>---<br><br><br><br><br>- 🚀 Developer & Learner: Passionate about building innovative solutions from scratch and reinventing the wheel.  <br>- 💡 Current Project: Working on an AI SaaS platform, focusing on advanced backend development.  <br>- 🎓 Academic Journey: Pursuing BE in Information Science at RIT-Bangalore, India.  <br>- 🎭 Hobbies & Interests: When I'm not coding, you'll find me doing stand-up comedy 🎤, singing 🎶, dancing 💃, and acting 🎬.  <br>- 🦇 Fun Fact: Have you ever seen me and Batman at the same time? **It’s me!!!**  <br><br><br><br>
+<br><br>---<br><br><br><br><br>- 🚀 Developer & Learner: Passionate about building innovative solutions from scratch and reinventing the wheel.  <br>- 💡 Current Project: Working on an AI SaaS platform, focusing on advanced backend development.  <br>- 🎓 Academic Journey: Pursuing BE in Information Science at RIT-Bangalore, India.  <br>- 🎭 Hobbies & Interests: When I'm not coding, you'll find me doing stand-up comedy 🎤, singing 🎶, dancing 💃, and acting 🎬.  <br>- 🦇 Fun Fact: Have you ever seen me and Batman at the same time? **It’s me!!!**  <br><br><br><br>
 
 
 ## 🌐 Socials:

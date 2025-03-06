@@ -17,7 +17,7 @@
 <h2 align="left">My Toys 🧸</h2>
 
 ###
-<div style="text-align: center;">
+<div style="center">
 <table style=" margin: auto; border: 2px solid black; border-collapse: collapse; width: auto;">
   <tr>
     <th style="border: 1px solid black; padding: 10px;"><b style="color:green;">Category</b></th>

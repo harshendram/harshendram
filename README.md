@@ -18,7 +18,7 @@
 
 ###
 
-<table style=" solid black; border-collapse: collapse; width: 100%;">
+<table style=" margin: auto; border: 2px solid black; border-collapse: collapse; width: auto;">
   <tr>
     <th style="border: 1px solid black; padding: 10px;"><b style="color:green;">Category</b></th>
     <th style="border: 1px solid black; padding: 10px;"><b style="color:green;">Technologies</b></th>

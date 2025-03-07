@@ -5,7 +5,7 @@
 <p align="left">My name is Harshendra and I'm a Dev 👨🏻‍💻 and a Student 👨🏻‍🎓</p>
 
 ###
-&nbsp;  
+
 <h2 align="left">About Me 👼🏼</h2>
 
 ###

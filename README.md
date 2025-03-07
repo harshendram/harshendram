@@ -29,7 +29,7 @@
 <a href="https://gist.github.com/harshendram/7d9676faa9add2f5602cb5a722dc1510">
     <img src="https://raw.githubusercontent.com/harshendram/harshendram/main/assets/sign_my_guestbook.gif" 
          alt="GuestBook" 
-         style="padding-left: 20px; padding-right: 20px; max-width: 100%;">
+         style="padding-left: 200px; padding-right: 20px; max-width: 100%;">
 </a>
 
 </div>

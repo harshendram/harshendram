@@ -22,17 +22,23 @@
 
 ###
 
-<div style="padding: 50px; text-align: center;">
+&nbsp;  
+&nbsp;  
+&nbsp;  
 
-## GuestBook 📖✒️  
+## &nbsp;&nbsp;&nbsp;&nbsp;GuestBook 📖✒️  
+&nbsp;  
 
-<a href="https://gist.github.com/harshendram/7d9676faa9add2f5602cb5a722dc1510">
-    <img src="https://raw.githubusercontent.com/harshendram/harshendram/main/assets/sign_my_guestbook.gif" 
-         alt="GuestBook" 
-         style="padding-left: 200px; padding-right: 20px; max-width: 100%;">
-</a>
+<p align="center">
+    <a href="https://gist.github.com/harshendram/7d9676faa9add2f5602cb5a722dc1510">
+        <img src="https://raw.githubusercontent.com/harshendram/harshendram/main/assets/sign_my_guestbook.gif" 
+             alt="GuestBook">
+    </a>
+</p>  
 
-</div>
+&nbsp;  
+&nbsp;  
+&nbsp;  
 
  
 <h2 align="left">My Toys 🧸</h2>

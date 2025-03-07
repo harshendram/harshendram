@@ -10,6 +10,7 @@
 
 ###
 
+
 <p align="left">
   🪲 Creating bugs since 2023.<br>
   📚 I'm currently learning Advance Backend with integration of hugging face 🤗 AI models.<br>
@@ -18,13 +19,22 @@
   🎲 Fun fact: Have you ever seen me and Batman together? that's coz its me !!! 🦇.
 </p>
 
+
 ###
 
-## GuestBook 📖✒️
+<div style="padding: 50px; text-align: center;">
 
-[![GuestBook](https://raw.githubusercontent.com/harshendram/harshendram/main/assets/sign_my_guestbook.gif)](https://gist.github.com/harshendram/7d9676faa9add2f5602cb5a722dc1510)  
+## GuestBook 📖✒️  
 
+<a href="https://gist.github.com/harshendram/7d9676faa9add2f5602cb5a722dc1510">
+    <img src="https://raw.githubusercontent.com/harshendram/harshendram/main/assets/sign_my_guestbook.gif" 
+         alt="GuestBook" 
+         style="padding-left: 20px; padding-right: 20px; max-width: 100%;">
+</a>
 
+</div>
+
+ 
 <h2 align="left">My Toys 🧸</h2>
 
 <center>

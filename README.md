@@ -21,7 +21,7 @@
 
 ###
 
-&nbsp;  
+
 &nbsp;  
 ## GuestBook  📖✒️
 

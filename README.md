@@ -6,12 +6,10 @@
 
 ###
 &nbsp;  
-&nbsp;  
 <h2 align="left">About Me 👼🏼</h2>
 
 ###
-&nbsp;  
-&nbsp;  
+&nbsp;    
 
 <p align="left">
   🪲 Creating bugs since 2023.<br>
@@ -20,7 +18,6 @@
   🎯 Goals: To always make ppl happiee.<br>
   🎲 Fun fact: Have you ever seen me and Batman together? that's coz its me !!! 🦇.
 </p>
-
 
 ###
 

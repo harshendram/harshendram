@@ -30,8 +30,13 @@
 &nbsp;  
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/harshendram/count.svg?"  />
+
+  <h4>👀 Views</h4>  
+
+  <img src="https://profile-counter.glitch.me/harshendram/count.svg?" />
+
 </div>
+
 
  
 <h2 align="left">My Toys 🧸</h2>

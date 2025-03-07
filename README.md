@@ -29,7 +29,9 @@
 
 &nbsp;  
 
-
+<div align="center">
+  <img src="https://profile-counter.glitch.me/harshendram/count.svg?"  />
+</div>
 
  
 <h2 align="left">My Toys 🧸</h2>
@@ -134,9 +136,7 @@
   </table>
 </center>
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/harshendram/count.svg?"  />
-</div>
+
 
 ###
 

@@ -22,7 +22,7 @@
 
 ## GuestBook 📖✒️
 
-[![GuestBook](https://raw.githubusercontent.com/harshendram/harshendram/main/assets/sign_my_guestbook.gif)](https://github.com/harshendram/harshendram/issues)  
+[![GuestBook](https://raw.githubusercontent.com/harshendram/harshendram/main/assets/sign_my_guestbook.gif)](https://gist.github.com/harshendram/7d9676faa9add2f5602cb5a722dc1510)  
 
 
 <h2 align="left">My Toys 🧸</h2>

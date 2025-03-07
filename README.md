@@ -10,7 +10,6 @@
 
 ###
   
-
 <p align="left">
   🪲 Creating bugs since 2023.<br>
   📚 I'm currently learning Advance Backend with integration of hugging face 🤗 AI models.<br>
@@ -21,8 +20,6 @@
 
 ###
 
-
-&nbsp;  
 ## GuestBook  📖✒️
 
 [![GuestBook](https://raw.githubusercontent.com/harshendram/harshendram/main/assets/sign_my_guestbook.gif)](https://gist.github.com/harshendram/7d9676faa9add2f5602cb5a722dc1510) 
@@ -30,16 +27,13 @@
 &nbsp;  
 
 <div align="center">
-
   <h4>👀 Views</h4>  
-
   <img src="https://profile-counter.glitch.me/harshendram/count.svg?" />
-
 </div>
-
 
  
 <h2 align="left">My Toys 🧸</h2>
+
 
 <center>
   <table align="center" border="2" style="border-collapse: collapse;">

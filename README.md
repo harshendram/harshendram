@@ -24,21 +24,13 @@
 
 &nbsp;  
 &nbsp;  
-&nbsp;  
 
-## &nbsp;&nbsp;&nbsp;&nbsp;GuestBook 📖✒️  
-&nbsp;  
 
-<p align="center">
-    <a href="https://gist.github.com/harshendram/7d9676faa9add2f5602cb5a722dc1510">
-        <img src="https://raw.githubusercontent.com/harshendram/harshendram/main/assets/sign_my_guestbook.gif" 
-             alt="GuestBook">
-    </a>
-</p>  
+[![GuestBook](https://raw.githubusercontent.com/harshendram/harshendram/main/assets/sign_my_guestbook.gif)](https://gist.github.com/harshendram/7d9676faa9add2f5602cb5a722dc1510) 
 
 &nbsp;  
 &nbsp;  
-&nbsp;  
+
 
  
 <h2 align="left">My Toys 🧸</h2>

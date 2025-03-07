@@ -20,7 +20,7 @@
 
 ###
 
-## 📖🚀 GuestBook ✨  
+## GuestBook 📖✒️
 
 [![GuestBook](https://raw.githubusercontent.com/harshendram/harshendram/main/assets/sign_my_guestbook.gif)](https://github.com/harshendram/harshendram/issues)  
 

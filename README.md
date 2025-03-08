@@ -33,7 +33,7 @@
   🎲 Fun fact: Have you ever seen me and Batman together? that's coz its me !!! 🦇.
 </p>
 
-###
+<img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="80">
 
 ## GuestBook  📖✒️
 
@@ -189,9 +189,3 @@
 <img src="https://raw.githubusercontent.com/harshendram/harshendram/output/snake.svg" alt="Snake animation" />
 
 ###
-
-<img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="80">
-
-<div align="center">
-  <img height="200" src="https://tenor.com/bAp6N.gif"  />
-</div>

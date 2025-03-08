@@ -22,6 +22,8 @@
 +@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
  ```
 </div>
+<img src="https://i.imgur.com/dBaSKWF.gif" width="100%" />
+
 <h2 align="left">About Me 👼🏼</h2>
 
 ###

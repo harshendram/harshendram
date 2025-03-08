@@ -2,33 +2,29 @@
 
 ###
 
-<div align="center" style="font-family: monospace;">
+```markdown
+```diff
++ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ +
+@@       o o                                           @@
+@@       | |                                           @@
+@@      _L_L_                                          @@
+@@   ❮\/__-__\/❯ Programming isn't about what you know @@
+@@   ❮(|~o.o~|)❯  It's about what you can figure out   @@
+@@   ❮/ \`-'/ \❯                                       @@
+@@     _/`U'\_      .----------------------------.     @@
+@@    ( .   . )     | while( ! (succeed=try() ) ) |     @@
+@@   / /     \ \    '----------------------------'     @@
+@@   \ |  ,  | /                                       @@
+@@    \|=====|/      creating a digital legacy         @@
+@@     |_.^._|            one commit at a time         @@
+@@     | |"| |                                         @@
+@@     ( ) ( )   Testing leads to failure              @@
+@@     |_| |_|   and failure leads to understanding    @@
+@@ _.-' _j L_ '-._                                     @@
+@@(___.'     '.___)                                    @@
++ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ +
 
-<pre>
-<span style="color: green">+@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+</span>
-<span style="color: green">@@</span>       <span style="color: #ff69b4">o o                                           </span><span style="color: green">@@</span>
-<span style="color: green">@@</span>       <span style="color: #ff69b4">| |                                           </span><span style="color: green">@@</span>
-<span style="color: green">@@</span>      <span style="color: #ff69b4">_L_L_                                          </span><span style="color: green">@@</span>
-<span style="color: green">@@</span>   <span style="color: #ff69b4">❮\/__-__\/❯ Programming isn't about what you know </span><span style="color: green">@@</span>
-<span style="color: green">@@</span>   <span style="color: #ff69b4">❮(|~o.o~|)❯  It's about what you can figure out   </span><span style="color: green">@@</span>
-<span style="color: green">@@</span>   <span style="color: #ff69b4">❮/ \`-'/ \❯                                       </span><span style="color: green">@@</span>
-<span style="color: green">@@</span>     <span style="color: #ff69b4">_/`U'\_      .----------------------------.     </span><span style="color: green">@@</span>
-<span style="color: green">@@</span>    <span style="color: #ff69b4">( .   . )     | while( ! (succeed=try() ) ) |     </span><span style="color: green">@@</span>
-<span style="color: green">@@</span>   <span style="color: #ff69b4">/ /     \ \    '----------------------------'     </span><span style="color: green">@@</span>
-<span style="color: green">@@</span>   <span style="color: #ff69b4">\ |  ,  | /                                       </span><span style="color: green">@@</span>
-<span style="color: green">@@</span>    <span style="color: #ff69b4">\|=====|/      creating a digital legacy         </span><span style="color: green">@@</span>
-<span style="color: green">@@</span>     <span style="color: #ff69b4">|_.^._|            one commit at a time         </span><span style="color: green">@@</span>
-<span style="color: green">@@</span>     <span style="color: #ff69b4">| |"| |                                         </span><span style="color: green">@@</span>
-<span style="color: green">@@</span>     <span style="color: #ff69b4">( ) ( )   Testing leads to failure              </span><span style="color: green">@@</span>
-<span style="color: green">@@</span>     <span style="color: #ff69b4">|_| |_|   and failure leads to understanding    </span><span style="color: green">@@</span>
-<span style="color: green">@@</span> _.-' <span style="color: #ff69b4">_j L_ '-._                                     </span><span style="color: green">@@</span>
-<span style="color: green">@@</span>(___.'     '.___)                                    <span style="color: green">@@</span>
-<span style="color: green">+@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+</span>
-</pre>
-
-</div>
-
-
+```
 ###
 
 <h2 align="left">About Me 👼🏼</h2>

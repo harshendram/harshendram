@@ -164,7 +164,6 @@
 
 ###
 
-<img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="80">
 <div align="center">
   <a href="https://www.linkedin.com/in/harshendra-m-2b8bb5299/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
@@ -193,6 +192,6 @@
   <img src="https://i.imgur.com/OFloXS3.gif" />
 </p>
 <p align="center">
-  <img src="https://i.imgur.com/OFloXS3.gif" width="70%" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 

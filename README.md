@@ -22,11 +22,10 @@
 +@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
  ```
 </div>
-<img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="80">
 
 <h2 align="left">About Me 👼🏼</h2>
+<img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="80">
 
-###
   
 <p align="left">
   🪲 Creating bugs since 2023.<br>
@@ -48,7 +47,7 @@
 </div>
  
 <h2 align="left">My Toys 🧸</h2>
-
+<img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="80">
 
 <center>
   <table align="center" border="2" style="border-collapse: collapse;">

@@ -188,9 +188,11 @@
 
 ###
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
+
 <p align="center">
-  <img src="https://i.imgur.com/OFloXS3.gif" />
+  <img src="https://i.imgur.com/OFloXS3.gif" width="25%" />
 </p>
+
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>

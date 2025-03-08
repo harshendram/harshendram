@@ -32,9 +32,7 @@
   🎯 Goals: To always make ppl happiee.<br>
   🎲 Fun fact: Have you ever seen me and Batman together? that's coz its me !!! 🦇.
 </p>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="80">
-
+<img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
 ## GuestBook  📖✒️
 
 [![GuestBook](https://raw.githubusercontent.com/harshendram/harshendram/main/assets/sign_my_guestbook.gif)](https://gist.github.com/harshendram/7d9676faa9add2f5602cb5a722dc1510) 

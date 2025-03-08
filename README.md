@@ -189,7 +189,7 @@
 ###
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
 
-<p align="center">
+####<p align="center">
   <img src="https://i.imgur.com/OFloXS3.gif" width="25%" />
 </p>
 

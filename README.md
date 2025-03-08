@@ -1,9 +1,30 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
+<div align="center">
 
-</div> ```
-
+```diff
++@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
+@@       o o                                           @@
+@@       | |                                           @@
+@@      _L_L_                                          @@
+@@   ❮\/__-__\/❯ Programming isn't about what you know @@
+@@   ❮(|~o.o~|)❯  It's about what you can figure out   @@
+@@   ❮/ \`-'/ \❯                                       @@
+@@     _/`U'\_      .----------------------------.     @@
+@@    ( .   . )     | while( ! (succeed=try() ) ) |    @@
+@@   / /     \ \    '----------------------------'     @@
+@@   \ |  ,  | /                                       @@
+@@    \|=====|/      creating a digital legacy         @@
+@@     |_.^._|            one commit at a time         @@
+@@     | |"| |                                         @@
+@@     ( ) ( )   Testing leads to failure              @@
+@@     |_| |_|   and failure leads to understanding    @@
+@@ _.-' _j L_ '-._                                     @@
+@@(___.'     '.___)                                    @@
++@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
+ ```
+</div>
 <h2 align="left">About Me 👼🏼</h2>
 
 ###

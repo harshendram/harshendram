@@ -190,11 +190,22 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
 
 <p align="center">
-  <img src="https://i.imgur.com/OFloXS3.gif" width="25%" height="50px" />
-</p>
+<img src="https://i.imgur.com/KwHw09D.gif" height="30" width="150">
+ 
+<!--😂🃏JOKECARD / 🌐WEBSITE: https://github.com/ABSphreak/readme-jokes -->
+<p align="center">
+<img src="https://readme-jokes-trinibs-projects.vercel.app/api" alt="Jokes Card" width="400">
 
+<!--💬QUOTESTITLE / 🌐WEBSITE: https://textanim.com/ -->
+<p align="center">
+<img src="https://i.imgur.com/OFloXS3.gif" height="30" width="150">
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
+<img src="https://github-readme-daily-quotes-trinibs-projects.vercel.app/api?theme=merko&category=programming&border=true&border_color=bdf259&border_width=3&border_radius=40&font=new_rocker"><br><br>
 
+<!--💬🃏MEMESTITLE / 🌐WEBSITE: https://textanim.com/ -->
+<p align="center">
+<img src="https://i.imgur.com/vKOQi1L.gif" height="30" width="150">
+<!--🃏MEMEPHOTOS / 🌐WEBSITE: https://github.com/trinib/Subreddit-Memes -->
+<p align="center">
+<img src="https://subreddit-memes-trinibs-projects.vercel.app/api/meme" width="400px"/>

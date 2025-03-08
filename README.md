@@ -189,9 +189,10 @@
 ###
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
 
-####<p align="center">
-  <img src="https://i.imgur.com/OFloXS3.gif" width="25%" />
+<p align="center">
+  <img src="https://i.imgur.com/OFloXS3.gif" width="25%" height="50px" />
 </p>
+
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />

@@ -24,8 +24,6 @@
 </div>
 
 <h2 align="left">About Me 👼🏼</h2>
-<img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="80">
-
   
 <p align="left">
   🪲 Creating bugs since 2023.<br>
@@ -47,7 +45,6 @@
 </div>
  
 <h2 align="left">My Toys 🧸</h2>
-<img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="80">
 
 <center>
   <table align="center" border="2" style="border-collapse: collapse;">
@@ -149,7 +146,7 @@
   </table>
 </center>
 
-
+<img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="80">
 
 ###
 
@@ -168,6 +165,7 @@
 
 ###
 
+<img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="80">
 <div align="center">
   <a href="https://www.linkedin.com/in/harshendra-m-2b8bb5299/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
@@ -191,6 +189,8 @@
 <img src="https://raw.githubusercontent.com/harshendram/harshendram/output/snake.svg" alt="Snake animation" />
 
 ###
+
+<img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="80">
 
 <div align="center">
   <img height="200" src="https://tenor.com/bAp6N.gif"  />

@@ -2,7 +2,32 @@
 
 ###
 
-<p align="left">My name is Harshendra and I'm a Dev 👨🏻‍💻 and a Student 👨🏻‍🎓</p>
+<div align="center" style="font-family: monospace;">
+
+<pre>
+<span style="color: green">+@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+</span>
+<span style="color: green">@@</span>       <span style="color: #ff69b4">o o                                           </span><span style="color: green">@@</span>
+<span style="color: green">@@</span>       <span style="color: #ff69b4">| |                                           </span><span style="color: green">@@</span>
+<span style="color: green">@@</span>      <span style="color: #ff69b4">_L_L_                                          </span><span style="color: green">@@</span>
+<span style="color: green">@@</span>   <span style="color: #ff69b4">❮\/__-__\/❯ Programming isn't about what you know </span><span style="color: green">@@</span>
+<span style="color: green">@@</span>   <span style="color: #ff69b4">❮(|~o.o~|)❯  It's about what you can figure out   </span><span style="color: green">@@</span>
+<span style="color: green">@@</span>   <span style="color: #ff69b4">❮/ \`-'/ \❯                                       </span><span style="color: green">@@</span>
+<span style="color: green">@@</span>     <span style="color: #ff69b4">_/`U'\_      .----------------------------.     </span><span style="color: green">@@</span>
+<span style="color: green">@@</span>    <span style="color: #ff69b4">( .   . )     | while( ! (succeed=try() ) ) |     </span><span style="color: green">@@</span>
+<span style="color: green">@@</span>   <span style="color: #ff69b4">/ /     \ \    '----------------------------'     </span><span style="color: green">@@</span>
+<span style="color: green">@@</span>   <span style="color: #ff69b4">\ |  ,  | /                                       </span><span style="color: green">@@</span>
+<span style="color: green">@@</span>    <span style="color: #ff69b4">\|=====|/      creating a digital legacy         </span><span style="color: green">@@</span>
+<span style="color: green">@@</span>     <span style="color: #ff69b4">|_.^._|            one commit at a time         </span><span style="color: green">@@</span>
+<span style="color: green">@@</span>     <span style="color: #ff69b4">| |"| |                                         </span><span style="color: green">@@</span>
+<span style="color: green">@@</span>     <span style="color: #ff69b4">( ) ( )   Testing leads to failure              </span><span style="color: green">@@</span>
+<span style="color: green">@@</span>     <span style="color: #ff69b4">|_| |_|   and failure leads to understanding    </span><span style="color: green">@@</span>
+<span style="color: green">@@</span> _.-' <span style="color: #ff69b4">_j L_ '-._                                     </span><span style="color: green">@@</span>
+<span style="color: green">@@</span>(___.'     '.___)                                    <span style="color: green">@@</span>
+<span style="color: green">+@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+</span>
+</pre>
+
+</div>
+
 
 ###
 

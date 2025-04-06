@@ -17,7 +17,7 @@
   </a>
   &nbsp;&nbsp;
   <a href="#github-metrics">
-    <img src="https://img.shields.io/badge📊 Metrics-FF8C00?style=for-the-badge&logo=github&logoColor=white" alt="Metrics"/>
+    <img src="https://img.shields.io/badge/Metrics-FF8C00?style=for-the-badge&logo=github&logoColor=white" alt="Metrics"/>
   </a>
   &nbsp;&nbsp;
   <a href="#fun">

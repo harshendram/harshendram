@@ -1,12 +1,15 @@
 <div align="center">
+<div align="center" style="margin-bottom: 20px;">
+  <p>
+    <a href="#about-me-👼🏼" style="text-decoration: none; font-size: 18px; margin: 0 20px; color: #00FFAB;"><b>About</b></a>
+    <a href="#guestbook-📖✒️" style="text-decoration: none; font-size: 18px; margin: 0 20px; color: #00FFAB;"><b>Guestbook</b></a>
+    <a href="#my-toys-🧸" style="text-decoration: none; font-size: 18px; margin: 0 20px; color: #00FFAB;"><b>Tech Stack</b></a>
+    <a href="#connect" style="text-decoration: none; font-size: 18px; margin: 0 20px; color: #00FFAB;"><b>Contact</b></a>
+    <a href="#github-metrics" style="text-decoration: none; font-size: 18px; margin: 0 20px; color: #00FFAB;"><b>Metrics</b></a>
+    <a href="#fun" style="text-decoration: none; font-size: 18px; margin: 0 20px; color: #00FFAB;"><b>Fun</b></a>
+  </p>
+</div>
 
-<nav style="text-align: center; margin-bottom: 20px;">
-  <a href="#about" style="margin: 0 15px; text-decoration: none; color: #0366d6;">About Me</a>
-  <a href="#guestbook" style="margin: 0 15px; text-decoration: none; color: #0366d6;">GuestBook</a>
-  <a href="#toys" style="margin: 0 15px; text-decoration: none; color: #0366d6;">My Toys</a>
-  <a href="#stats" style="margin: 0 15px; text-decoration: none; color: #0366d6;">Stats</a>
-  <a href="#connect" style="margin: 0 15px; text-decoration: none; color: #0366d6;">Connect</a>
-</nav>
 
 
 ```diff
@@ -32,7 +35,7 @@
  ```
 </div>
 
-<h2 align="left">About Me 👼🏼</h2>
+<h2 align="left" id="about-me-👼🏼">About Me 👼🏼</h2>
   
 <p align="left">
   🪲 Creating bugs since 2023.<br>
@@ -43,7 +46,7 @@
 </p>
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
 
-## GuestBook  📖✒️
+<h2 id="guestbook-📖✒️">GuestBook  📖✒️</h2>
 
 [![GuestBook](https://raw.githubusercontent.com/harshendram/harshendram/main/assets/sign_my_guestbook.gif)](https://gist.github.com/harshendram/7d9676faa9add2f5602cb5a722dc1510) 
   
@@ -52,7 +55,7 @@
   <img src="https://profile-counter.glitch.me/harshendram/count.svg?" />
 </div>
  
-<h2 align="left">My Toys 🧸</h2>
+<h2 align="left" id="my-toys-🧸">My Toys 🧸</h2>
 
 <center>
   <table align="center" border="2" style="border-collapse: collapse;">
@@ -158,7 +161,7 @@
 
 ###
 
-<div align="center">
+<div align="center" id="github-metrics">
   
 <img src="https://github-readme-stats.vercel.app/api?username=harshendram&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
 
@@ -174,7 +177,7 @@
 
 ###
 
-<div align="center">
+<div align="center" id="connect">
   <a href="https://www.linkedin.com/in/harshendra-m-2b8bb5299/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
@@ -203,7 +206,7 @@
 <img src="https://i.imgur.com/KwHw09D.gif" height="30" width="150">
  
 <!--😂🃏JOKECARD / 🌐WEBSITE: https://github.com/ABSphreak/readme-jokes -->
-<p align="center">
+<p align="center" id="fun">
 <img src="https://readme-jokes-trinibs-projects.vercel.app/api" alt="Jokes Card" width="400">
 
 <!--💬QUOTESTITLE / 🌐WEBSITE: https://textanim.com/ -->

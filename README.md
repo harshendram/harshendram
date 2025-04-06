@@ -1,5 +1,14 @@
 <div align="center">
 
+<nav style="text-align: center; margin-bottom: 20px;">
+  <a href="#about" style="margin: 0 15px; text-decoration: none; color: #0366d6;">About Me</a>
+  <a href="#guestbook" style="margin: 0 15px; text-decoration: none; color: #0366d6;">GuestBook</a>
+  <a href="#toys" style="margin: 0 15px; text-decoration: none; color: #0366d6;">My Toys</a>
+  <a href="#stats" style="margin: 0 15px; text-decoration: none; color: #0366d6;">Stats</a>
+  <a href="#connect" style="margin: 0 15px; text-decoration: none; color: #0366d6;">Connect</a>
+</nav>
+
+
 ```diff
 +@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
 @@       o o                                           @@

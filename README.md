@@ -1,16 +1,29 @@
 <div align="center">
-<div align="center" style="margin-bottom: 20px;">
-  <p>
-    <a href="#about-me-👼🏼" style="text-decoration: none; font-size: 18px; margin: 0 20px; color: #00FFAB;"><b>About</b></a>
-    <a href="#guestbook-📖✒️" style="text-decoration: none; font-size: 18px; margin: 0 20px; color: #00FFAB;"><b>Guestbook</b></a>
-    <a href="#my-toys-🧸" style="text-decoration: none; font-size: 18px; margin: 0 20px; color: #00FFAB;"><b>Tech Stack</b></a>
-    <a href="#connect" style="text-decoration: none; font-size: 18px; margin: 0 20px; color: #00FFAB;"><b>Contact</b></a>
-    <a href="#github-metrics" style="text-decoration: none; font-size: 18px; margin: 0 20px; color: #00FFAB;"><b>Metrics</b></a>
-    <a href="#fun" style="text-decoration: none; font-size: 18px; margin: 0 20px; color: #00FFAB;"><b>Fun</b></a>
-  </p>
-</div>
-
-
+<p align="center">
+  <a href="#about-me-👼🏼">
+    <img src="https://img.shields.io/badge/👼🏼 About-29AB87?style=for-the-badge&logo=readthedocs&logoColor=white" alt="About"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="#guestbook-📖✒️">
+    <img src="https://img.shields.io/badge/📖✒️ Guestbook-FFB6C1?style=for-the-badge&logo=bookstack&logoColor=white" alt="Guestbook"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="#my-toys-🧸">
+    <img src="https://img.shields.io/badge/🧸 Tech_Stack-F9A825?style=for-the-badge&logo=codesignal&logoColor=white" alt="Tech Stack"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="#connect">
+    <img src="https://img.shields.io/badge/📬 Contact-6495ED?style=for-the-badge&logo=telegram&logoColor=white" alt="Contact"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="#github-metrics">
+    <img src="https://img.shields.io/badge📊 Metrics-FF8C00?style=for-the-badge&logo=github&logoColor=white" alt="Metrics"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="#fun">
+    <img src="https://img.shields.io/badge/🎉 Fun-BA55D3?style=for-the-badge&logo=funimation&logoColor=white" alt="Fun"/>
+  </a>
+</p>
 
 ```diff
 +@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+

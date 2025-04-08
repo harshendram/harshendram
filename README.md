@@ -216,9 +216,6 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
 
-<p align="center">
-<img src="https://i.imgur.com/KwHw09D.gif" height="30" width="150">
-
 <!--💬FUNTITLE / 🌐WEBSITE: https://textanim.com/ -->
 <p align="center">
 <img src="https://i.imgur.com/jdd2GPv.gif" height="37" width="250">
@@ -270,6 +267,9 @@ When you click on a link it will submit a new issue with the desired move, creat
   </tr>
  </table>
  
+<p align="center">
+<img src="https://i.imgur.com/KwHw09D.gif" height="30" width="150">
+
 <!--😂🃏JOKECARD / 🌐WEBSITE: https://github.com/ABSphreak/readme-jokes -->
 <p align="center" id="fun">
 <img src="https://readme-jokes-trinibs-projects.vercel.app/api" alt="Jokes Card" width="400">

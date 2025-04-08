@@ -45,7 +45,8 @@
 @@ _.-' _j L_ '-._                                     @@
 @@(___.'     '.___)                                    @@
 +@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
- ```
+```
+
 </div>
 
 <h2 align="left" id="about-me-👼🏼">About Me 👼🏼</h2>
@@ -61,8 +62,8 @@
 
 <h2 id="guestbook-📖✒️">GuestBook  📖✒️</h2>
 
-[![GuestBook](https://raw.githubusercontent.com/harshendram/harshendram/main/assets/sign_my_guestbook.gif)](https://gist.github.com/harshendram/7d9676faa9add2f5602cb5a722dc1510) 
-  
+[![GuestBook](https://raw.githubusercontent.com/harshendram/harshendram/main/assets/sign_my_guestbook.gif)](https://gist.github.com/harshendram/7d9676faa9add2f5602cb5a722dc1510)
+
 <div align="center">
   <h4>👀</h4>  
   <img src="https://profile-counter.glitch.me/harshendram/count.svg?" />
@@ -178,7 +179,6 @@
   
 <img src="https://github-readme-stats.vercel.app/api?username=harshendram&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
 
-  
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=harshendram&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false&order=2" height="150" alt="languages graph"  />
   
   <img src="https://streak-stats.demolab.com?user=harshendram&locale=en&mode=daily&theme=gotham&hide_border=false&border_radius=5&order=3" height="147" alt="streak graph"  />
@@ -213,10 +213,62 @@
 <img src="https://raw.githubusercontent.com/harshendram/harshendram/output/snake.svg" alt="Snake animation" />
 
 ###
+
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
 
 <p align="center">
 <img src="https://i.imgur.com/KwHw09D.gif" height="30" width="150">
+
+<!--💬FUNTITLE / 🌐WEBSITE: https://textanim.com/ -->
+<p align="center">
+<img src="https://i.imgur.com/jdd2GPv.gif" height="37" width="250">
+
+<!--♟️CHESS / 🌐WEBSITE: https://github.com/marcizhu/readme-chess -->
+ <h4 align="center">
+<table>
+  <tr>
+  </tr>
+  <tr>
+    <td><h5 align="center"><details>
+  <summary><h2><img src="https://media.giphy.com/media/9qCnMFHeiUVdVaTihl/giphy.gif" width="35px" height="35px">&nbsp;Chess Tournament&nbsp;<img src="https://media.giphy.com/media/9qCnMFHeiUVdVaTihl/giphy.gif" width="40px" height="40px"></h2></summary><p>
+
+<h4 align="left">
+
+ANYONE can take a turn on the board  
+<i>Make your move !!. It's <!-- BEGIN TURN -->white(clear)<!-- END TURN --> to play(instructions beneath)</i>
+
+<!-- BEGIN CHESS BOARD -->
+<!-- END CHESS BOARD -->
+
+To move a piece to a postion
+
+**_Choose one from the following table_** :
+
+<!-- BEGIN MOVES LIST -->
+<!-- END MOVES LIST -->
+
+Having fun? Ask a friend to play next move to get the next turn !
+
+<details>
+  <summary>How it works</summary>
+When you click on a link it will submit a new issue with the desired move, create the issue and a GitHub action is triggered, which in turn runs a small python script that performs the specified movement, updates this README file and commits the changes.
+</details>
+
+<details>
+  <summary>Last 5 moves in this game</summary>
+<!-- BEGIN LAST MOVES -->
+<!-- END LAST MOVES -->
+</details>
+
+<details>
+  <summary>Top 10 most moves across all games</summary>
+<!-- BEGIN TOP MOVES -->
+<!-- END TOP MOVES -->
+
+</details>
+</details><h5 align="center">
+  </tr>
+ </table>
  
 <!--😂🃏JOKECARD / 🌐WEBSITE: https://github.com/ABSphreak/readme-jokes -->
 <p align="center" id="fun">

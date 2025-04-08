@@ -225,7 +225,7 @@
 
 <!--♟️CHESS / 🌐WEBSITE: https://github.com/marcizhu/readme-chess -->
  <h4 align="center">
-<table>
+<table align="center">
   <tr>
   </tr>
   <tr>

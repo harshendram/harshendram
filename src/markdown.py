@@ -116,7 +116,7 @@ def board_to_markdown(board):
         "K": "img/white/king.svg",
         "P": "img/white/pawn.svg",
 
-        ".": "img/blank.svg"
+        ".": "img/blank.png"
     }
 
     # Write header in Markdown format

@@ -216,6 +216,27 @@
 ###
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
+## 🏅 Badge Wall
+
+> 🔽 **Tip:** Select the dropdown below to view my full collection of Credly badges.
+
+<details>
+  <summary>📜 Click here to expand and view my badges</summary>
+
+  <br/>
+
+  <p align="center">
+    <!-- START_SECTION:badges -->
+    <!-- Your badges will auto-render here -->
+    <!-- END_SECTION:badges -->
+
+    <!-- Optional: Add custom badges manually below this line -->
+    <!-- <img src="https://images.credly.com/size/110x110/images/...badge1.png" width="80" /> -->
+  </p>
+
+</details>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
 
 <!--💬FUNTITLE / 🌐WEBSITE: https://textanim.com/ -->
 <p align="center">
@@ -311,14 +332,6 @@ When you click on a link it will submit a new issue with the desired move, creat
   </tr>
  </table>
  
-<p align="center">
-<img src="https://i.imgur.com/KwHw09D.gif" height="30" width="150">
-
-## 🏅 Badge Wall (caution its too long hehehe)
-
-<!--START_SECTION:badges-->
-<!--END_SECTION:badges-->
-
 <p align="center">
 <img src="https://i.imgur.com/KwHw09D.gif" height="30" width="150">
 

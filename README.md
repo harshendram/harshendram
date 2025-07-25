@@ -216,6 +216,7 @@
 ###
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
+<h2 align="left" id="## 🏅 Badge Wall">## 🏅 Badge Wall</h2>
 ## 🏅 Badge Wall
 
 > 🔽 **Tip:** Select the dropdown below to view my full collection of Credly badges.
@@ -229,9 +230,6 @@
     <!-- START_SECTION:badges -->
     <!-- Your badges will auto-render here -->
     <!-- END_SECTION:badges -->
-
-    <!-- Optional: Add custom badges manually below this line -->
-    <!-- <img src="https://images.credly.com/size/110x110/images/...badge1.png" width="80" /> -->
   </p>
 
 </details>

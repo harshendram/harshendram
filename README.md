@@ -227,9 +227,8 @@
   <br/>
 
   <p align="center">
-    <!-- START_SECTION:badges -->
-    <!-- Your badges will auto-render here -->
-    <!-- END_SECTION:badges -->
+  <!--START_SECTION:badges-->
+  <!--END_SECTION:badges-->
   </p>
 
 </details>

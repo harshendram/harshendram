@@ -216,8 +216,8 @@
 ###
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
-<h2 align="left" id="## 🏅 Badge Wall">## 🏅 Badge Wall</h2>
-## 🏅 Badge Wall
+<h2 align="left" id="## 🏅 Badge Wall">🏅 Badge Wall</h2>
+
 
 > 🔽 **Tip:** Select the dropdown below to view my full collection of Credly badges.
 

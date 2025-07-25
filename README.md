@@ -314,6 +314,14 @@ When you click on a link it will submit a new issue with the desired move, creat
 <p align="center">
 <img src="https://i.imgur.com/KwHw09D.gif" height="30" width="150">
 
+## 🏅 Badge Wall (caution its too long hehehe)
+
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
+
+<p align="center">
+<img src="https://i.imgur.com/KwHw09D.gif" height="30" width="150">
+
 <!--😂🃏JOKECARD / 🌐WEBSITE: https://github.com/ABSphreak/readme-jokes -->
 <p align="center" id="fun">
 <img src="https://readme-jokes-trinibs-projects.vercel.app/api" alt="Jokes Card" width="400">

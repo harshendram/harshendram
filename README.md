@@ -65,7 +65,7 @@
 [![GuestBook](https://raw.githubusercontent.com/harshendram/harshendram/main/assets/sign_my_guestbook.gif)](https://gist.github.com/harshendram/7d9676faa9add2f5602cb5a722dc1510)
 
 <div align="center">
-  <h4>(https://github.com/Mayur-Pagote/README_Design_Kit/blob/main/public/Assets/Eyes.png)</h4>
+  <h4><img src="https://github.com/Mayur-Pagote/README_Design_Kit/blob/main/public/Assets/Eyes.png" /></h4>
   <img src="https://count.getloli.com/get/@harshendram?theme=rule34"/>
 </div>
  

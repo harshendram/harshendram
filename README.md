@@ -66,7 +66,7 @@
 
 <div align="center">
   <h4>👀</h4>  
-  <img src="https://profile-counter.glitch.me/harshendram/count.svg?" />
+  <img src="https://count.getloli.com/get/@harshendram?theme=rule34"/>
 </div>
  
 <h2 align="left" id="my-toys-🧸">My Toys 🧸</h2>

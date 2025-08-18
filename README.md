@@ -74,7 +74,7 @@
 <center>
   <table align="center" border="2" style="border-collapse: collapse;">
 
-    <!-- Header -->
+  
 <tr>
   <th style="border: 1px solid black; padding: 10px;">
     <b style="color:green;">Category</b>

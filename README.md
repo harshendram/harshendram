@@ -52,11 +52,7 @@
 <h2 align="left" id="about-me-👼🏼">About Me 👼🏼</h2>
   
 <p align="left">
-  🪲 Creating bugs since 2005.<br>
-  📚 I'm currently learning Advance Backend with integration of hugging face 🤗 AI models.<br>
-  🔭 I’m pursuing BE Information Science @RIT-Bangalore-India<br>
-  🎯 Goals: To always make ppl happiee.<br>
-  🎲 Fun fact: Have you ever seen me and Batman together? that's coz its me !!! 🦇.
+  I wish I had git for my Life, So that I could delete myself with just one button and MFA :(
 </p>
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
 

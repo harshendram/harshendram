@@ -52,7 +52,7 @@
 <h2 align="left" id="about-me-👼🏼">About Me 👼🏼</h2>
   
 <p align="left">
-  🪲 Creating bugs since 2023.<br>
+  🪲 Creating bugs since 2005.<br>
   📚 I'm currently learning Advance Backend with integration of hugging face 🤗 AI models.<br>
   🔭 I’m pursuing BE Information Science @RIT-Bangalore-India<br>
   🎯 Goals: To always make ppl happiee.<br>
